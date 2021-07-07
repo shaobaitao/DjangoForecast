@@ -1,0 +1,32 @@
+,id,userID,Age,BusinessTravel,Department,DistanceFromHome,Education,EducationField,EmployeeNumber,EnvironmentSatisfaction,Gender,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,NumCompaniesWorked,Over18,OverTime,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StandardHours,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,Attrition
+12,13,users object (4),24,Travel_Frequently,Research & Development,9.0,3,Medical,1494,2,Male,3,1,Laboratory Technician,1,Single,3172,2,Y,Yes,11,3,3,80,0,4,2,2,0,0,0,0,100.0
+14,15,users object (4),31,Travel_Frequently,Sales,26.0,4,Marketing,1967,1,Male,3,2,Sales Executive,4,Married,5617,1,Y,Yes,11,3,3,80,0,10,4,3,10,7,0,8,100.0
+36,37,users object (4),31,Non-Travel,Research & Development,9.0,2,Medical,991,3,Male,2,1,Research Scientist,1,Single,2321,0,Y,Yes,22,4,1,80,0,4,0,3,3,2,1,2,100.0
+46,47,users object (4),28,Travel_Frequently,Research & Development,2.0,2,Medical,1504,3,Male,2,1,Laboratory Technician,1,Single,2561,7,Y,No,11,3,3,80,0,8,2,2,0,0,0,0,100.0
+50,51,users object (4),34,Travel_Rarely,Sales,24.0,4,Medical,1489,1,Female,2,2,Sales Executive,2,Single,4599,0,Y,Yes,23,4,3,80,0,16,2,4,15,9,10,10,100.0
+54,55,users object (4),50,Travel_Rarely,Sales,3.0,2,Marketing,47,1,Male,2,1,Sales Representative,3,Married,2683,1,Y,Yes,14,3,3,80,0,3,2,3,3,2,0,2,100.0
+60,61,users object (4),20,Travel_Frequently,Research & Development,6.0,3,Life Sciences,137,4,Female,2,1,Laboratory Technician,4,Single,2926,1,Y,Yes,18,3,2,80,0,1,5,3,1,0,1,0,100.0
+67,68,users object (4),18,Travel_Frequently,Sales,5.0,3,Marketing,614,2,Male,3,1,Sales Representative,2,Single,1878,1,Y,Yes,14,3,4,80,0,0,3,3,0,0,0,0,100.0
+84,85,users object (4),18,Travel_Frequently,Sales,3.0,2,Medical,1624,2,Female,3,1,Sales Representative,4,Single,1569,1,Y,Yes,12,3,3,80,0,0,2,4,0,0,0,0,100.0
+103,104,users object (4),21,Travel_Rarely,Sales,7.0,1,Marketing,1780,2,Male,3,1,Sales Representative,2,Single,2679,1,Y,No,13,3,2,80,0,1,3,3,1,0,1,0,100.0
+117,118,users object (4),27,Travel_Frequently,Human Resources,22.0,3,Human Resources,1944,1,Female,2,1,Human Resources,2,Married,2863,1,Y,No,12,3,1,80,0,1,2,3,1,0,0,0,100.0
+124,125,users object (4),19,Travel_Rarely,Sales,21.0,3,Other,959,4,Male,2,1,Sales Representative,2,Single,2121,1,Y,Yes,13,3,2,80,0,1,3,4,1,0,0,0,100.0
+129,130,users object (4),52,Travel_Rarely,Sales,5.0,3,Life Sciences,1319,2,Male,3,3,Sales Executive,2,Single,8446,9,Y,Yes,19,3,3,80,0,10,2,2,8,7,7,7,100.0
+139,140,users object (4),24,Travel_Frequently,Research & Development,2.0,1,Technical Degree,1646,1,Female,3,1,Research Scientist,4,Single,3760,1,Y,Yes,13,3,3,80,0,6,2,3,6,3,1,3,100.0
+170,171,users object (4),26,Travel_Rarely,Sales,23.0,3,Marketing,72,3,Female,2,2,Sales Executive,4,Married,4157,7,Y,Yes,19,3,3,80,1,5,2,2,2,2,0,0,100.0
+194,195,users object (4),25,Travel_Rarely,Sales,9.0,2,Life Sciences,1439,1,Male,2,1,Sales Representative,1,Married,4400,3,Y,No,12,3,1,80,0,6,2,3,3,2,2,2,100.0
+225,226,users object (4),32,Travel_Rarely,Sales,1.0,2,Life Sciences,1734,1,Male,1,2,Sales Executive,2,Single,6735,6,Y,No,15,3,2,80,0,10,2,3,0,0,0,0,100.0
+229,230,users object (4),43,Travel_Frequently,Research & Development,17.0,3,Technical Degree,1767,3,Male,2,1,Research Scientist,3,Married,2437,9,Y,Yes,16,3,4,80,1,6,4,3,1,0,0,0,100.0
+233,234,users object (4),36,Travel_Rarely,Sales,13.0,5,Marketing,1733,2,Male,2,2,Sales Executive,1,Divorced,6134,5,Y,Yes,13,3,2,80,3,16,3,3,2,2,2,2,100.0
+238,239,users object (4),21,Travel_Rarely,Sales,5.0,1,Medical,2021,3,Male,3,1,Sales Representative,1,Single,2380,1,Y,Yes,11,3,4,80,0,2,6,3,2,2,1,2,100.0
+247,248,users object (4),28,Travel_Rarely,Research & Development,24.0,3,Life Sciences,19,3,Male,2,1,Laboratory Technician,3,Single,2028,5,Y,Yes,14,3,2,80,0,6,4,3,4,2,0,3,100.0
+258,259,users object (4),26,Travel_Rarely,Sales,8.0,3,Technical Degree,796,4,Male,2,2,Sales Executive,1,Single,5326,6,Y,No,17,3,3,80,0,6,2,2,4,3,1,2,100.0
+259,260,users object (4),50,Travel_Rarely,Sales,28.0,3,Marketing,2055,4,Male,2,3,Sales Executive,1,Divorced,10854,4,Y,Yes,13,3,2,80,1,20,3,3,3,2,2,0,100.0
+268,269,users object (4),20,Travel_Rarely,Research & Development,4.0,3,Technical Degree,960,1,Male,3,1,Laboratory Technician,1,Single,2973,1,Y,No,19,3,2,80,0,1,2,3,1,0,0,0,100.0
+271,272,users object (4),50,Travel_Frequently,Sales,8.0,2,Technical Degree,723,2,Male,3,2,Sales Executive,3,Married,6796,3,Y,Yes,14,3,1,80,1,18,4,3,4,3,1,3,100.0
+272,273,users object (4),21,Travel_Rarely,Sales,22.0,1,Technical Degree,669,3,Male,3,1,Sales Representative,3,Single,3447,1,Y,No,11,3,3,80,0,3,2,3,3,2,1,2,100.0
+275,276,users object (4),40,Travel_Rarely,Research & Development,7.0,3,Life Sciences,1649,1,Male,3,1,Laboratory Technician,1,Single,2166,3,Y,Yes,14,3,2,80,0,10,3,1,4,2,0,3,100.0
+332,333,users object (4),28,Travel_Rarely,Sales,2.0,4,Marketing,846,2,Female,3,2,Sales Executive,2,Married,4779,1,Y,Yes,20,4,1,80,0,8,2,3,8,7,7,5,100.0
+339,340,users object (4),35,Travel_Rarely,Sales,15.0,2,Medical,1645,1,Male,1,2,Sales Executive,4,Divorced,5440,6,Y,Yes,14,3,4,80,2,7,2,2,2,2,2,2,100.0
+351,352,users object (4),1,Travel_Rarely,Sales,1.0,1,Life Sciences,132131,1,Male,1,1,Manager,1,Single,1,1,1,Yes,1,3,1,1,1,0,0,1,0,0,0,0,100.0
+352,353,users object (1),20,Non-Travel,Research & Development,5.0,5,Human Resources,132131,3,Female,2,2,Manager,2,Single,2,2,0,Yes,2,4,2,1,3,2,2,3,2,2,2,1,100.0
